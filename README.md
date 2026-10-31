@@ -1,31 +1,49 @@
-# Trade The Pool - Discount Codes & Deal History
+# Trade The Pool Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-09-02, the verified Trade The Pool discount code is **WWS4GW** — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/trade-the-pool/
+> Trade The Pool is a brand developed by Five Percent Online Ltd. the company that operates The5ers.com, a well-known and highly reputed online prop firm established in 2016.
+> Our experience derived from years of specializing in the funding-traders arena. Our team is made of senior active traders, with first-hand self-experience. Living through all aspects of being a trader is what inspires us to build the best rewarding trading environment. This approach has positioned The5ers.com as a leader and most innovative company in the funding-traders online prop trading industry.
+> A similar attitude toward leadership, and innovation and is presented in how we created the Trade The Pool program. Where our key value is building a mutually beneficial relationship between us and our partner traders.
+>
+> — Trade The Pool, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/tradethepool.com)
 
-**Verified exclusive discount code:** WWS4GW (works any time; live rate always on prop firm page)
+- Code: WWS4GW
+- Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-09-02
+- Trustpilot: 4.5/5 (939 reviews)
+- Activate: https://propfirmdiscount.com/go/tradethepool
+- Firm page: https://propfirmdiscount.com/prop-firm/trade-the-pool/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Use discount code **WWS4GW** to get **10% off** on Trade The Pool challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all Trade The Pool evaluation accounts.
+## Current Trade The Pool deal: Labor Day Promo: 15% Off All Evaluation Accounts
+
+- Published: 2026-09-02
+- Offer ends: Ended
+- Offer: 15% off
+- Scope: All Accounts, All Sizes, All Models
+- Code: this deal carries its own limited-time campaign code, shown on the deal page below
+- Deal page: https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-labor-day-15-off-all-accounts/
+
+## Trade The Pool discount code FAQ
+
+**What is the Trade The Pool discount code?**
+
+WWS4GW. It is verified by PropFirmDiscount.com and takes up to 10% off Trade The Pool challenges and accounts.
+
+**Does the Trade The Pool discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current Trade The Pool deal?**
+
+**Labor Day Promo: 15% Off All Evaluation Accounts** — published 2026-09-02. Offer ends: Ended. The offer is 15% off.
 
 ---
 
-## Latest Deal
-
-### Trade The Pool - Labor Day Promo: 15% Off All Evaluation Accounts
-
-**Published:** 2026-09-02  
-**Offer ends:** Ended  
-**Discount:** 15% off  
-**Scope:** All Accounts, All Sizes, All Models  
-
-**Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.  
-
-**Deal page:** https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-labor-day-15-off-all-accounts/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **8**
 
@@ -49,19 +67,20 @@ Total deals tracked: **8**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **Trade The Pool** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **Trade The Pool** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/trade-the-pool/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/trade-the-pool/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
