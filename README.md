@@ -49,21 +49,21 @@ Total deals tracked: **8**
 
 ### 2026 (6 deals)
 
-| Deal Date | Title | Discount | Expires | Deal Link |
-|---|---|---|---|---|
-| 2026-09-02 | Labor Day Promo: 15% Off All Evaluation Accounts | 15% off | Ended | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-labor-day-15-off-all-accounts/) |
-| 2026-07-24 | Upgraded $60K and $120K Flex Accounts for Standard Challenge Pricing | Account Upgrade | Ended | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-flex-account-upgrade/) |
-| 2026-07-21 | 48-Hour Deal: $60K and $120K Buying Power Flex Accounts | Power Bonus | Ended | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-48-hour-flex-account-promotion/) |
-| 2026-06-17 | Free Retry for New Users on $5K and $25K FLEX Accounts | Free Second Attempt | Ended | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-free-second-attempt-flex-accounts/) |
-| 2026-06-09 | Free Retry Offer on $5K and $25K Evaluation Accounts Valid Through June 25, 2026 | Free retry credit | Ended | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-free-retry-5k-25k-flex/) |
-| 2026-01-16 | Deepcharts Offer: 30% OFF Evaluation Accounts | 30% off | Ended | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-deepcharts-30-off/) |
+| Deal Date | Title | Discount | Expires | Event | Deal Link |
+|---|---|---|---|---|---|
+| 2026-09-02 | Labor Day Promo: 15% Off All Evaluation Accounts | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-labor-day-15-off-all-accounts/) |
+| 2026-07-24 | Upgraded $60K and $120K Flex Accounts for Standard Challenge Pricing | Account Upgrade | Ended | — | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-flex-account-upgrade/) |
+| 2026-07-21 | 48-Hour Deal: $60K and $120K Buying Power Flex Accounts | Power Bonus | Ended | — | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-48-hour-flex-account-promotion/) |
+| 2026-06-17 | Free Retry for New Users on $5K and $25K FLEX Accounts | Free Second Attempt | Ended | — | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-free-second-attempt-flex-accounts/) |
+| 2026-06-09 | Free Retry Offer on $5K and $25K Evaluation Accounts Valid Through June 25, 2026 | Free retry credit | Ended | — | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-free-retry-5k-25k-flex/) |
+| 2026-01-16 | Deepcharts Offer: 30% OFF Evaluation Accounts | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-deepcharts-30-off/) |
 
 ### 2025 (2 deals)
 
-| Deal Date | Title | Discount | Expires | Deal Link |
-|---|---|---|---|---|
-| 2025-12-01 | Cyber Monday: 15% OFF All Evaluation Accounts | 15% off | Ended | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-cyber-monday-15-off-all-evaluations/) |
-| 2025-11-25 | Black Friday Deal: 15% OFF All Evaluation Accounts | 15% off | Ended | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-black-friday-15-off-deal/) |
+| Deal Date | Title | Discount | Expires | Event | Deal Link |
+|---|---|---|---|---|---|
+| 2025-12-01 | Cyber Monday: 15% OFF All Evaluation Accounts | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-cyber-monday-15-off-all-evaluations/) |
+| 2025-11-25 | Black Friday Deal: 15% OFF All Evaluation Accounts | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-black-friday-15-off-deal/) |
 
 ---
 
@@ -90,6 +90,7 @@ links are appended after, in the order below.
 | `scope` | What the deal covers. |
 | `date_published` | The date this deal went live. |
 | `date_exp` | Expiry as the site states it: an ISO date, `Limited time`, or `Ended`. |
+| `event` | The seasonal campaign this deal was tagged with on the site (`Halloween`, `Black Friday`), or `null` when it belongs to no event. The event never changes what the deal is worth — it names the occasion the deal was run for. |
 | `last_verified` | The date this deal's details were last checked. |
 | `post_url` | This deal's page on PropFirmDiscount. A deal carrying its own campaign code shows that code there. |
 | `prop_firm` | Firm name. |
