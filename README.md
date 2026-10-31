@@ -23,6 +23,7 @@ As of 2026-09-02, the verified Trade The Pool discount code is **WWS4GW** — up
 - Published: 2026-09-02
 - Offer ends: Ended
 - Offer: 15% off
+- Event: Labor Day
 - Scope: All Accounts, All Sizes, All Models
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-labor-day-15-off-all-accounts/
@@ -51,7 +52,7 @@ Total deals tracked: **8**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-09-02 | Labor Day Promo: 15% Off All Evaluation Accounts | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-labor-day-15-off-all-accounts/) |
+| 2026-09-02 | Labor Day Promo: 15% Off All Evaluation Accounts | 15% off | Ended | Labor Day | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-labor-day-15-off-all-accounts/) |
 | 2026-07-24 | Upgraded $60K and $120K Flex Accounts for Standard Challenge Pricing | Account Upgrade | Ended | — | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-flex-account-upgrade/) |
 | 2026-07-21 | 48-Hour Deal: $60K and $120K Buying Power Flex Accounts | Power Bonus | Ended | — | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-48-hour-flex-account-promotion/) |
 | 2026-06-17 | Free Retry for New Users on $5K and $25K FLEX Accounts | Free Second Attempt | Ended | — | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-free-second-attempt-flex-accounts/) |
@@ -62,8 +63,8 @@ Total deals tracked: **8**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-12-01 | Cyber Monday: 15% OFF All Evaluation Accounts | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-cyber-monday-15-off-all-evaluations/) |
-| 2025-11-25 | Black Friday Deal: 15% OFF All Evaluation Accounts | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-black-friday-15-off-deal/) |
+| 2025-12-01 | Cyber Monday: 15% OFF All Evaluation Accounts | 15% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-cyber-monday-15-off-all-evaluations/) |
+| 2025-11-25 | Black Friday Deal: 15% OFF All Evaluation Accounts | 15% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-black-friday-15-off-deal/) |
 
 ---
 
