@@ -19,7 +19,7 @@ tags:
 
 # Trade The Pool Discount Code
 
-As of 2026-09-02, the verified Trade The Pool discount code is **WWS4GW** — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-09-02, the verified Trade The Pool discount code is WWS4GW — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 > Trade The Pool is a brand developed by Five Percent Online Ltd. the company that operates The5ers.com, a well-known and highly reputed online prop firm established in 2016.
 > Our experience derived from years of specializing in the funding-traders arena. Our team is made of senior active traders, with first-hand self-experience. Living through all aspects of being a trader is what inspires us to build the best rewarding trading environment. This approach has positioned The5ers.com as a leader and most innovative company in the funding-traders online prop trading industry.
