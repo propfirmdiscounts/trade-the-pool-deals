@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13175,
+    "title": "Stocktober Sale 20% Off All Accounts",
+    "offer_type": "deal",
+    "discount_value": "20%",
+    "scope": [
+      "All Accounts"
+    ],
+    "date_published": "2026-10-28",
+    "date_exp": "Limited time",
+    "event": null,
+    "last_verified": "2026-10-28",
+    "post_url": "https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-stocktober-sale-20-off/",
+    "prop_firm": "Trade The Pool",
+    "prop_firm_slug": "trade-the-pool",
+    "standing_code": "WWS4GW",
+    "standing_discount": "10%",
+    "activation_link": "https://propfirmdiscount.com/go/tradethepool",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/trade-the-pool/"
+  },
+  {
     "deal_id": 12652,
     "title": "Labor Day Promo: 15% Off All Evaluation Accounts",
     "offer_type": "deal",

@@ -1,6 +1,6 @@
 # Trade The Pool - Discount Codes & Deal History
 
-As of 2026-09-02, the verified Trade The Pool discount code is WWS4GW — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-10-28, the verified Trade The Pool discount code is WWS4GW — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 > Trade The Pool is a brand developed by Five Percent Online Ltd. the company that operates The5ers.com, a well-known and highly reputed online prop firm established in 2016.
 > Our experience derived from years of specializing in the funding-traders arena. Our team is made of senior active traders, with first-hand self-experience. Living through all aspects of being a trader is what inspires us to build the best rewarding trading environment. This approach has positioned The5ers.com as a leader and most innovative company in the funding-traders online prop trading industry.
@@ -11,22 +11,21 @@ As of 2026-09-02, the verified Trade The Pool discount code is WWS4GW — up to 
 - Code: WWS4GW
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-09-02
+- Last deal published: 2026-10-28
 - Trustpilot: 4.5/5 (956 reviews)
 - Activate: https://propfirmdiscount.com/go/tradethepool
 - Firm page: https://propfirmdiscount.com/prop-firm/trade-the-pool/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current Trade The Pool deal: Labor Day Promo: 15% Off All Evaluation Accounts
+## Current Trade The Pool deal: Stocktober Sale 20% Off All Accounts
 
-- Published: 2026-09-02
-- Offer ends: Ended
-- Offer: 15% off
-- Event: Labor Day
-- Scope: All Accounts, All Sizes, All Models
+- Published: 2026-10-28
+- Offer ends: Limited time
+- Offer: 20% off
+- Scope: All Accounts
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-labor-day-15-off-all-accounts/
+- Deal page: https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-stocktober-sale-20-off/
 
 ## Trade The Pool discount code FAQ
 
@@ -40,18 +39,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Trade The Pool deal?**
 
-**Labor Day Promo: 15% Off All Evaluation Accounts** — published 2026-09-02. Offer ends: Ended. The offer is 15% off.
+**Stocktober Sale 20% Off All Accounts** — published 2026-10-28. Offer ends: Limited time. The offer is 20% off.
 
 ---
 
 ## Deal history
 
-Total deals tracked: **8**
+Total deals tracked: **9**
 
-### 2026 (6 deals)
+### 2026 (7 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-10-28 | Stocktober Sale 20% Off All Accounts | 20% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-stocktober-sale-20-off/) |
 | 2026-09-02 | Labor Day Promo: 15% Off All Evaluation Accounts | 15% off | Ended | Labor Day | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-labor-day-15-off-all-accounts/) |
 | 2026-07-24 | Upgraded $60K and $120K Flex Accounts for Standard Challenge Pricing | Account Upgrade | Ended | — | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-flex-account-upgrade/) |
 | 2026-07-21 | 48-Hour Deal: $60K and $120K Buying Power Flex Accounts | Power Bonus | Ended | — | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-48-hour-flex-account-promotion/) |
