@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: tradethepool
+  HF_NAMESPACE: prop-firm
   FIRM_SLUG: trade-the-pool
   DEALSTORE_ID: 147
   FIRM_NAME: Trade The Pool
