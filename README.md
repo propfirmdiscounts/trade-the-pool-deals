@@ -1,6 +1,6 @@
 # Trade The Pool - Discount Codes & Deal History
 
-As of 2026-10-28, the verified Trade The Pool discount code is WWS4GW — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-11, the verified Trade The Pool discount code is WWS4GW — 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 > Trade The Pool is a brand developed by Five Percent Online Ltd. the company that operates The5ers.com, a well-known and highly reputed online prop firm established in 2016.
 > Our experience derived from years of specializing in the funding-traders arena. Our team is made of senior active traders, with first-hand self-experience. Living through all aspects of being a trader is what inspires us to build the best rewarding trading environment. This approach has positioned The5ers.com as a leader and most innovative company in the funding-traders online prop trading industry.
@@ -9,7 +9,7 @@ As of 2026-10-28, the verified Trade The Pool discount code is WWS4GW — up to 
 > — Trade The Pool, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/tradethepool.com)
 
 - Code: WWS4GW
-- Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-28
 - Trustpilot: 4.5/5 (981 reviews)
@@ -31,7 +31,7 @@ As of 2026-10-28, the verified Trade The Pool discount code is WWS4GW — up to 
 
 **What is the Trade The Pool discount code?**
 
-WWS4GW. It is verified by PropFirmDiscount.com and takes up to 10% off Trade The Pool challenges and accounts.
+WWS4GW. It is verified by PropFirmDiscount.com and takes 10% off Trade The Pool challenges and accounts.
 
 **Does the Trade The Pool discount code expire?**
 
@@ -51,20 +51,20 @@ Total deals tracked: **9**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-10-28 | Stocktober Sale 20% Off All Accounts | 20% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-stocktober-sale-20-off/) |
-| 2026-09-02 | Labor Day Promo: 15% Off All Evaluation Accounts | 15% off | Ended | Labor Day | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-labor-day-15-off-all-accounts/) |
-| 2026-07-24 | Upgraded $60K and $120K Flex Accounts for Standard Challenge Pricing | Account Upgrade | Ended | — | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-flex-account-upgrade/) |
-| 2026-07-21 | 48-Hour Deal: $60K and $120K Buying Power Flex Accounts | Power Bonus | Ended | — | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-48-hour-flex-account-promotion/) |
-| 2026-06-17 | Free Retry for New Users on $5K and $25K FLEX Accounts | Free Second Attempt | Ended | — | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-free-second-attempt-flex-accounts/) |
-| 2026-06-09 | Free Retry Offer on $5K and $25K Evaluation Accounts Valid Through June 25, 2026 | Free retry credit | Ended | — | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-free-retry-5k-25k-flex/) |
-| 2026-01-16 | Deepcharts Offer: 30% OFF Evaluation Accounts | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-deepcharts-30-off/) |
+| 2026-10-28 | Trade The Pool: Stocktober Sale 20% Off All Accounts | 20% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-stocktober-sale-20-off/) |
+| 2026-09-02 | Trade The Pool: Labor Day Promo: 15% Off All Evaluation Accounts | 15% off | Ended | Labor Day | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-labor-day-15-off-all-accounts/) |
+| 2026-07-24 | Trade The Pool: Upgraded $60K and $120K Flex Accounts for Standard Challenge Pricing | Account Upgrade | Ended | — | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-flex-account-upgrade/) |
+| 2026-07-21 | Trade The Pool: 48-Hour Deal: $60K and $120K Buying Power Flex Accounts | Power Bonus | Ended | — | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-48-hour-flex-account-promotion/) |
+| 2026-06-17 | Trade The Pool: Free Retry for New Users on $5K and $25K FLEX Accounts | Free Second Attempt | Ended | — | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-free-second-attempt-flex-accounts/) |
+| 2026-06-09 | Trade The Pool: Free Retry Offer on $5K and $25K Evaluation Accounts Valid Through June 25, 2026 | Free retry credit | Ended | — | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-free-retry-5k-25k-flex/) |
+| 2026-01-16 | Trade The Pool: Deepcharts Offer: 30% OFF Evaluation Accounts | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-deepcharts-30-off/) |
 
 ### 2025 (2 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-12-01 | Cyber Monday: 15% OFF All Evaluation Accounts | 15% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-cyber-monday-15-off-all-evaluations/) |
-| 2025-11-25 | Black Friday Deal: 15% OFF All Evaluation Accounts | 15% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-black-friday-15-off-deal/) |
+| 2025-12-01 | Trade The Pool: Cyber Monday: 15% OFF All Evaluation Accounts | 15% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-cyber-monday-15-off-all-evaluations/) |
+| 2025-11-25 | Trade The Pool: Black Friday Deal: 15% OFF All Evaluation Accounts | 15% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-black-friday-15-off-deal/) |
 
 ---
 
