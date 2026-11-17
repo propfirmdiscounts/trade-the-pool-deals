@@ -1,4 +1,4 @@
-# Trade The Pool Discount Code & Deal History
+# Trade The Pool Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Trade The Pool discount code is WWS4GW — 10% OFF, which can be applied on the checkout page anytime. The newest is "Stocktober Sale 20% Off All Accounts".
 
@@ -13,7 +13,7 @@ As of November 2026, the verified Trade The Pool discount code is WWS4GW — 10%
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-10-28
 - Trustpilot: [4.5/5 (999 reviews)](https://www.trustpilot.com/review/tradethepool.com)
-- GitHub repository: [Trade The Pool Deals Repository](https://github.com/propfirmdiscounts/trade-the-pool-deals)
+- GitHub repository: [Trade The Pool Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/trade-the-pool-deals)
 - Activate: [Activate Trade The Pool Discount Code](https://propfirmdiscount.com/go/tradethepool)
 - Firm page: [Trade The Pool Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/trade-the-pool/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -28,7 +28,7 @@ As of November 2026, the verified Trade The Pool discount code is WWS4GW — 10%
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [Trade The Pool Deal Page](https://propfirmdiscount.com/deals/trade-the-pool/trade-the-pool-stocktober-sale-20-off/)
 
-## Trade The Pool Discount Code & Deals FAQ
+## Trade The Pool Discount Code & Deals History FAQ
 
 **What is the Trade The Pool discount code?**
 
@@ -44,7 +44,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Trade The Pool Deal History
+## Trade The Pool Deals History
 
 Total deals tracked: **9**
 
@@ -69,7 +69,7 @@ Total deals tracked: **9**
 
 ---
 
-## About the Trade The Pool Deals Dataset
+## About the Trade The Pool Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Trade The Pool** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -77,7 +77,7 @@ This repository mirrors every deal **Trade The Pool** has published on PropFirmD
 - Prop firm profile: [Trade The Pool Profile](https://propfirmdiscount.com/prop-firm/trade-the-pool/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Trade The Pool Deal Dataset: Field Definitions
+## Trade The Pool Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the

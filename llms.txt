@@ -1,4 +1,4 @@
-# Trade The Pool Discount Codes
+# Trade The Pool Discount Code & Deals History
 
 This dataset tracks historical deal observations for Trade The Pool from PropFirmDiscount.com.
 
